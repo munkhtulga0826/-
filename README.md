@@ -13,6 +13,6 @@
    <li>Хоол хийх</li>
    <li>Хичээл хийх</li>
    <li>Шинийг сурах</li>  
- <p><a href="https://munkhtulga0826.github.io/"><em>Миний хобби</em></a></p>
+ <p><a href="https://munkhtulga0826.github.io/"><em>Буцах</em></a></p>
 
   
