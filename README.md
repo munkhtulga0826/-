@@ -1,11 +1,14 @@
 # Миний хобби
 <html>
 <head>
-    <meta cahrset="utf-8">
-    <title></title>
 </head>
 <body>
-    <h1><strong>Миний тухай</h1> 
+    <ul>
+   <li>Спортоор хичээллэх</li>
+   <li>Дуу сонсох</li>
+   <li>Хоол хийх</li>
+   <li>Хичээл хийх</li>
+   <li>Шинийг сурах</li>     
 </body>
 </html>
   
